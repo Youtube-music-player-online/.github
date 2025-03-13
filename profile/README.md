@@ -1,7 +1,7 @@
 <head> <meta name="google-site-verification" content="NPsuKfsWoZPezY6jllRdwMbydysdLiFIdK2twwGX7gk" /> </head>
 # YouTube MP3 Music Player Online, Stream Online Music, MP3 Music Listen, Listen Music Online
 
-Go to - [txt.re](https://txt.re)
+Go to - https://txtland.pages.dev/
 
 ## Discover the Best Way to Listen to Music Online
 
@@ -14,7 +14,7 @@ Listen to **MP3 music** directly from your browser. No need for additional softw
 Listen to music online. Our platform is optimized for all devices, so you can enjoy your music on your smartphone, tablet, or computer.
 
 ## How to Use
-1. Visit [txt.re](https://txt.re) on your device.
+1. Visit https://txtland.pages.dev/ on your device.
 2. Search music using the search bar and click search.
 3. Choose the music and click.
 4. Stream your music instantly!
